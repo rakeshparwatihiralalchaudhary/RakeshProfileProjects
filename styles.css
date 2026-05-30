@@ -587,6 +587,13 @@ img {
   line-height: 1.8;
 }
 
+.header-actions {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 28px;
+}
+
 .stats-strip {
   position: relative;
   z-index: 1;
